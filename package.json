@@ -1,0 +1,10 @@
+{
+  "name": "PaintingJS",
+  "version": "1.0.0",
+  "description": "Painting",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "homepage": "https://nyanggi.github.io/PaintingJS/",
+  "license": "MIT"
+}
